@@ -1,4 +1,4 @@
-package com.beckman.listadetarefas;
+package com.projects.listadetarefas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
